@@ -41,6 +41,7 @@ int main()
 	List<int> a;
 	List<int> b;
 	List<int> c;
+	List<int> d;
 	for (int i = 0;i < a.get_size();i++)
 	{
 		cout << a[i] << endl;
