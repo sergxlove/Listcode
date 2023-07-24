@@ -39,6 +39,8 @@ int main()
 	setlocale(LC_ALL, "rus");
 	srand(time(NULL));
 	List<int> a;
+	List<int> b;
+	List<int> c;
 	for (int i = 0;i < a.get_size();i++)
 	{
 		cout << a[i] << endl;
