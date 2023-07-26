@@ -43,6 +43,7 @@ int main()
 	List<int> c;
 	List<int> d;
 	List<double> e;
+	List<double> f;
 	for (int i = 0;i < a.get_size();i++)
 	{
 		cout << a[i] << endl;
