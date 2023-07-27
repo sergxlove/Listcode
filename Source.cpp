@@ -1,6 +1,8 @@
 #include <iostream>
 #include <ctime>
 #include <string>
+#include <vector>
+#include <algorithm>
 using namespace std;
 template<typename T>
 class List
